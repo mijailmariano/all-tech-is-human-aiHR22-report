@@ -1,6 +1,7 @@
 # "big-ticket" items
 env.py
 mm_env.py
+OPENAI_API_KEY
 .DS_Store
 .ipynb_checkpoints/
 __pycache__
