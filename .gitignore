@@ -1,5 +1,6 @@
 # "big-ticket" items
 env.py
+.env
 mm_env.py
 OPENAI_API_KEY
 .DS_Store
